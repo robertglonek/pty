@@ -1,4 +1,4 @@
-module github.com/creack/pty/v2
+module github.com/robertglonek/pty/v2
 
 go 1.18
 
